@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|solutionrelative:livrariaarquimago.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.data\\livrariaarquimago.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|solutionrelative:livrariaarquimago.data\\livrariaarquimago.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\Class1.cs",
+              "RelativeToolTip": "LivrariaArquimago.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:20:09.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivrariaArquimago.Data",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj",
+              "RelativeToolTip": "LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T13:16:25.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

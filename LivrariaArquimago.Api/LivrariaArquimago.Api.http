@@ -1,0 +1,6 @@
+@LivrariaArquimago.Api_HostAddress = http://localhost:5003
+
+GET {{LivrariaArquimago.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
