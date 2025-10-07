@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|solutionrelative:livrariaarquimago.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F901E438-4094-46C6-BCAF-E406A6D73801}|LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F901E438-4094-46C6-BCAF-E406A6D73801}|LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj|solutionrelative:livrariaarquimago.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F901E438-4094-46C6-BCAF-E406A6D73801}|LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.api\\livrariaarquimago.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F901E438-4094-46C6-BCAF-E406A6D73801}|LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj|solutionrelative:livrariaarquimago.api\\livrariaarquimago.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F901E438-4094-46C6-BCAF-E406A6D73801}|LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F901E438-4094-46C6-BCAF-E406A6D73801}|LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj|solutionrelative:livrariaarquimago.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F901E438-4094-46C6-BCAF-E406A6D73801}|LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.api\\livrariaarquimago.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F901E438-4094-46C6-BCAF-E406A6D73801}|LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj|solutionrelative:livrariaarquimago.api\\livrariaarquimago.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDB6DE7-AE5B-40D9-ADDB-8066A54FC5B2}|LivrariaArquimago.Web\\LivrariaArquimago.Web.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADDB6DE7-AE5B-40D9-ADDB-8066A54FC5B2}|LivrariaArquimago.Web\\LivrariaArquimago.Web.csproj|solutionrelative:livrariaarquimago.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDB6DE7-AE5B-40D9-ADDB-8066A54FC5B2}|LivrariaArquimago.Web\\LivrariaArquimago.Web.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDB6DE7-AE5B-40D9-ADDB-8066A54FC5B2}|LivrariaArquimago.Web\\LivrariaArquimago.Web.csproj|solutionrelative:livrariaarquimago.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.data\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|solutionrelative:livrariaarquimago.data\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.data\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|solutionrelative:livrariaarquimago.data\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.data\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|solutionrelative:livrariaarquimago.data\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.data\\livrariaarquimago.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|solutionrelative:livrariaarquimago.data\\livrariaarquimago.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|c:\\users\\lucas\\source\\repos\\livrariaarquimago\\livrariaarquimago.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E4968F-ECEA-4BE8-A981-2E17EA6654BF}|LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj|solutionrelative:livrariaarquimago.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +54,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivrariaArquimago.Api.http",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Api\\LivrariaArquimago.Api.http",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Api\\LivrariaArquimago.Api.http",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Api\\LivrariaArquimago.Api.http",
+              "RelativeToolTip": "LivrariaArquimago.Api\\LivrariaArquimago.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-07T13:46:00.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Web\\appsettings.json",
+              "RelativeToolTip": "LivrariaArquimago.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T13:45:56.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Api\\Program.cs",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Api\\Program.cs",
+              "RelativeToolTip": "LivrariaArquimago.Api\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:34:34.734Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Web\\Program.cs",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Web\\Program.cs",
+              "RelativeToolTip": "LivrariaArquimago.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:41:31.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Api\\appsettings.json",
+              "RelativeToolTip": "LivrariaArquimago.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T13:34:39.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivrariaArquimago.Api",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj",
+              "RelativeToolTip": "LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T13:33:50.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Data\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\Models\\Context.cs",
+              "RelativeToolTip": "LivrariaArquimago.Data\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:33:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Data\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\Models\\Livro.cs",
+              "RelativeToolTip": "LivrariaArquimago.Data\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:32:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "LivrariaArquimago.Data\\Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\Models\\Genero.cs",
+              "RelativeToolTip": "LivrariaArquimago.Data\\Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:31:40.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\Class1.cs",
               "RelativeDocumentMoniker": "LivrariaArquimago.Data\\Class1.cs",
@@ -34,11 +187,12 @@
               "RelativeToolTip": "LivrariaArquimago.Data\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T13:20:09.264Z"
+              "WhenOpened": "2025-10-06T13:20:09.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "LivrariaArquimago.Data.csproj",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\LivrariaArquimago\\LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj",
               "RelativeDocumentMoniker": "LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj",
@@ -46,7 +200,8 @@
               "RelativeToolTip": "LivrariaArquimago.Data\\LivrariaArquimago.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-06T13:16:25.317Z"
+              "WhenOpened": "2025-10-06T13:16:25.317Z",
+              "EditorCaption": ""
             }
           ]
         }
