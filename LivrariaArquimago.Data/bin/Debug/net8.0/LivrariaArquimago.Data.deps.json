@@ -10,7 +10,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.9",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.9",
-          "MySql.EntityFrameworkCore": "9.0.6"
+          "MySql.EntityFrameworkCore": "9.0.6",
+          "Pomelo.EntityFrameworkCore.MySql": "9.0.0"
         },
         "runtime": {
           "LivrariaArquimago.Data.dll": {}
@@ -619,6 +620,30 @@
           }
         }
       },
+      "MySqlConnector/2.4.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.9",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.9"
+        },
+        "runtime": {
+          "lib/net8.0/MySqlConnector.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.4.0.0"
+          }
+        }
+      },
+      "Pomelo.EntityFrameworkCore.MySql/9.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.9",
+          "MySqlConnector": "2.4.0"
+        },
+        "runtime": {
+          "lib/net8.0/Pomelo.EntityFrameworkCore.MySql.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
       "System.Buffers/4.5.1": {},
       "System.CodeDom/6.0.0": {
         "runtime": {
@@ -1130,6 +1155,20 @@
       "sha512": "sha512-px9d5ZL07zhJ4zlk+++3FLl28PMJgcm2uvwDQBiboQUE9jAd6KEoEC0esBdvD/isVI1UUbRm94Ky33G6TNpDlw==",
       "path": "mysql.entityframeworkcore/9.0.6",
       "hashPath": "mysql.entityframeworkcore.9.0.6.nupkg.sha512"
+    },
+    "MySqlConnector/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-78M+gVOjbdZEDIyXQqcA7EYlCGS3tpbUELHvn6638A2w0pkPI625ixnzsa5staAd3N9/xFmPJtkKDYwsXpFi/w==",
+      "path": "mysqlconnector/2.4.0",
+      "hashPath": "mysqlconnector.2.4.0.nupkg.sha512"
+    },
+    "Pomelo.EntityFrameworkCore.MySql/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cl7S4s6CbJno0LjNxrBHNc2xxmCliR5i40ATPZk/eTywVaAbHCbdc9vbGc3QThvwGjHqrDHT8vY9m1VF/47o0g==",
+      "path": "pomelo.entityframeworkcore.mysql/9.0.0",
+      "hashPath": "pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512"
     },
     "System.Buffers/4.5.1": {
       "type": "package",

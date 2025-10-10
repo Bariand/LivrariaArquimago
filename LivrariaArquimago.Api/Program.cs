@@ -40,6 +40,8 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+SeedData.Initialize(app.Services);
+
 app.Run();
 
 public static class SeedData
