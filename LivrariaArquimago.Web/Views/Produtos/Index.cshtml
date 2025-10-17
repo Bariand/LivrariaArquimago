@@ -1,0 +1,43 @@
+﻿@model List<LivrariaArquimago.Data.Models.Genero>
+
+@{
+    ViewData["Title"] = "Grimórios e Tomos (Nossos Produtos)";
+}
+
+<h1 class="text-primary-arquimago">@ViewData["Title"]</h1>
+
+@if (Model != null && Model.Any())
+{
+    @foreach (var genero in Model)
+    {
+        <div class="linha-produto mb-5">
+            <h2 class="text-secondary-arquimago">@genero.Nome</h2>
+            <hr />
+
+            <div class="row">
+                @if (genero.Livros != null && genero.Livros.Any())
+                {
+                    @foreach (var livro in genero.Livros)
+                    {
+                        <div class="col-md-3 mb-4">
+                            <div class="card h-100 shadow-sm border-arquimago">
+                                <div class="card-body">
+                                    <h5 class="card-title text-dark">@livro.Titulo</h5>
+                                    <p class="card-text text-muted">Autor: @livro.Autor</p>
+                                </div>
+                                <div class="card-footer bg-light">
+                                    <strong class="text-success-arquimago">R$ @livro.Preco.ToString("N2")</strong>
+                                    <small class="d-block">Gênero: @livro.Genero.Nome</small>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    }
+}
+else
+{
+    <p class="text-danger">O Portal do Conhecimento está fechado. Verifique a API.</p>
+}

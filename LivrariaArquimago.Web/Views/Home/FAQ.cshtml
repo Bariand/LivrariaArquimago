@@ -1,0 +1,54 @@
+﻿@* Views/Home/FAQ.cshtml (Perguntas Frequentes) *@
+@{
+    ViewData["Title"] = "Perguntas Arcanas (FAQ)";
+}
+
+<div class="container py-5">
+    <h1 class="titulo-arquimago">@ViewData["Title"]</h1>
+
+    <div class="accordion" id="faqAccordion">
+
+        @* Item 1: Compra e Pedidos *@
+        <div class="accordion-item card-arquimago mb-2">
+            <h2 class="accordion-header" id="headingOne">
+                <button class="accordion-button text-primary-arquimago" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    <i class="fas fa-book-reader me-2"></i> Como faço para convocar meu pedido de tomos?
+                </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                    <strong>R:</strong> É simples! Navegue pela seção "Produtos" (Grimórios e Tomos), adicione os livros desejados ao seu grimório (carrinho) e complete o ritual de checkout. Seus livros serão preparados para a jornada imediatamente.
+                </div>
+            </div>
+        </div>
+
+        @* Item 2: Envio e Entrega *@
+        <div class="accordion-item card-arquimago mb-2">
+            <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button collapsed text-primary-arquimago" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <i class="fas fa-shipping-fast me-2"></i> Qual o prazo para o Pergaminho (livro) chegar?
+                </button>
+            </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                    <strong>R:</strong> O prazo varia conforme a dimensão e o destino, mas geralmente está entre 5 a 15 dias úteis. Você receberá uma **pedra de rastreamento** (código de rastreio) por email assim que o artefato for despachado.
+                </div>
+            </div>
+        </div>
+
+        @* Item 3: Trocas e Devoluções *@
+        <div class="accordion-item card-arquimago mb-2">
+            <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed text-primary-arquimago" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <i class="fas fa-hand-magic me-2"></i> Se o tomo chegar danificado pelo caminho?
+                </button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                    <strong>R:</strong> Se o pergaminho (livro) chegar com avarias de transporte, iniciaremos um **feitiço de reversão**. Entre em contato imediatamente (na aba "Contato") em até 7 dias corridos para a troca, sem custos adicionais.
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

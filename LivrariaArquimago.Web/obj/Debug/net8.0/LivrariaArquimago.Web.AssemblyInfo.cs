@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LivrariaArquimago.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c342de0f77256f19542317e72335f9bdaf71fd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cac21b4fe1d085140a9e3beffe7ea2905055386")]
 [assembly: System.Reflection.AssemblyProductAttribute("LivrariaArquimago.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LivrariaArquimago.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

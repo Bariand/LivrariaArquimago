@@ -1,0 +1,40 @@
+﻿@* Views/Home/About.cshtml (Sobre Nós) *@
+@{
+    ViewData["Title"] = "Sobre a Guilda de Histórias";
+}
+
+<div class="container py-5">
+    <h1 class="titulo-arquimago">@ViewData["Title"]</h1>
+
+    <div class="row">
+        <div class="col-md-7">
+            <h2 class="text-secondary-arquimago">Nossa História: O Legado do Pergaminho</h2>
+            <p class="lead">
+                A **Livraria do Arquimago** não é apenas um site; é um portal. Nascida da antiga e vasta biblioteca de um mago excêntrico que dedicou sua vida a catalogar todos os saberes e fantasias, nossa missão é simples: **reunir e distribuir o conhecimento e a magia** contidos nas páginas.
+            </p>
+            <p>
+                Acreditamos que todo poder reside na leitura. Cada tomo é um feitiço, cada capítulo uma jornada. Junte-se à nossa Guilda e encontre o pergaminho que mudará seu destino.
+            </p>
+
+            <h2 class="text-secondary-arquimago mt-4">Missão, Visão e Valores (Os Três Pilares)</h2>
+            <div class="list-group">
+                <div class="list-group-item">
+                    <h5 class="text-primary-arquimago">Missão (O Feitiço Principal)</h5>
+                    Promover o acesso irrestrito à literatura de qualidade, tornando cada compra uma experiência mágica e imersiva.
+                </div>
+                <div class="list-group-item">
+                    <h5 class="text-primary-arquimago">Visão (O Destino da Jornada)</h5>
+                    Ser a principal referência para leitores que buscam fantasia, sabedoria e universos bem construídos no mundo digital.
+                </div>
+                <div class="list-group-item">
+                    <h5 class="text-primary-arquimago">Valores (Nossas Leis Arcanas)</h5>
+                    **Magia** (Criatividade e Inovação), **Conhecimento** (Acessibilidade à Sabedoria) e **Integridade** (Transparência com nossos aprendizes).
+                </div>
+            </div>
+        </div>
+        <div class="col-md-5 d-flex align-items-center justify-content-center">
+            @* Colocar imagem de um grimório *@
+            <img src="~/img/arquimago_vision.png" alt="Visão do Arquimago" class="img-fluid rounded shadow-lg" />
+        </div>
+    </div>
+</div>

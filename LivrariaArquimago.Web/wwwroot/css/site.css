@@ -20,3 +20,54 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+:root {
+    --primary-arquimago: #4A148C; /* Roxo Escuro Profundo (Base) */
+    --secondary-arquimago: #9C27B0; /* Roxo Púrpura (Destaque) */
+    --accent-arquimago: #FFC107; /* Dourado/Amarelo Âmbar (Acento) */
+    --text-light: #f8f9fa; /* Branco Suave */
+    --bg-dark: #212529; /* Preto para Fundos Escuros */
+}
+
+body {
+    background-color: var(--text-light);
+    color: var(--bg-dark);
+}
+
+.titulo-arquimago {
+    color: var(--primary-arquimago);
+    border-bottom: 3px solid var(--accent-arquimago);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.btn-magico {
+    background-color: var(--secondary-arquimago);
+    border-color: var(--secondary-arquimago);
+    color: var(--text-light);
+    transition: all 0.3s ease;
+}
+
+    .btn-magico:hover {
+        background-color: var(--primary-arquimago);
+        border-color: var(--primary-arquimago);
+    }
+
+.card-arquimago {
+    border: 1px solid rgba(74, 20, 140, 0.2); /* Borda Roxo suave */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+    .card-arquimago:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+.footer-arquimago {
+    background-color: var(--bg-dark);
+    color: var(--text-light);
+    border-top: 3px solid var(--accent-arquimago);
+    padding-top: 20px;
+    margin-top: 40px;
+}

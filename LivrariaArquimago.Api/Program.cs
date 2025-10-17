@@ -64,7 +64,23 @@ public static class SeedData
 
             var livros = new List<LivrariaArquimago.Data.Models.Livro>
             {
-                new LivrariaArquimago.Data.Models.Livro { Titulo = "Duna", Autor = "Frank Herbert", Preco = 59.90M, GeneroId = aventurasCosmicas.Id }
+                // Grimórios e Magia
+                new Livro { Titulo = "O Senhor dos Anéis: A Sociedade do Anel", Autor = "J.R.R. Tolkien", Preco = 89.90M, GeneroId = grimoriosMagia.Id },
+                new Livro { Titulo = "Harry Potter e a Pedra Filosofal", Autor = "J.K. Rowling", Preco = 59.90M, GeneroId = grimoriosMagia.Id },
+                new Livro { Titulo = "A Guerra dos Tronos", Autor = "George R. R. Martin", Preco = 95.00M, GeneroId = grimoriosMagia.Id },
+                new Livro { Titulo = "Eragon (O Ciclo da Herança)", Autor = "Christopher Paolini", Preco = 69.50M, GeneroId = grimoriosMagia.Id },
+
+                // Lendas e Mitologia
+                new Livro { Titulo = "Mitologia Nórdica", Autor = "Neil Gaiman", Preco = 55.00M, GeneroId = lendasMitologia.Id },
+                new Livro { Titulo = "A Ilíada", Autor = "Homero", Preco = 32.00M, GeneroId = lendasMitologia.Id },
+                new Livro { Titulo = "Contos de Fadas dos Irmãos Grimm", Autor = "Irmãos Grimm", Preco = 45.00M, GeneroId = lendasMitologia.Id },
+                new Livro { Titulo = "As Brumas de Avalon", Autor = "Marion Zimmer Bradley", Preco = 79.90M, GeneroId = lendasMitologia.Id },
+
+                // Aventuras Cósmicas
+                new Livro { Titulo = "Duna", Autor = "Frank Herbert", Preco = 59.90M, GeneroId = aventurasCosmicas.Id },
+                new Livro { Titulo = "Dagon", Autor = "H.P. Lovecraft", Preco = 35.00M, GeneroId = aventurasCosmicas.Id },
+                new Livro { Titulo = "Neuromancer", Autor = "William Gibson", Preco = 62.50M, GeneroId = aventurasCosmicas.Id },
+                new Livro { Titulo = "Fundação", Autor = "Isaac Asimov", Preco = 71.00M, GeneroId = aventurasCosmicas.Id }
             };
 
             context.Livros.AddRange(livros);

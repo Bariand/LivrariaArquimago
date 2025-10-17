@@ -1,8 +1,55 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model List<LivrariaArquimago.Data.Models.Genero>
+
+@* Views/Produtos/Index.cshtml (Catálogo) *@
+@{
+    ViewData["Title"] = "Grimórios e Tomos (Nossos Produtos)";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container py-5">
+    <h1 class="titulo-arquimago">@ViewData["Title"]</h1>
+
+    @if (Model != null && Model.Any())
+    {
+        @foreach (var genero in Model)
+        {
+            <div class="linha-produto mb-5">
+                <h2 class="text-secondary-arquimago">@genero.Nome</h2>
+                <p class="text-muted">Desvende os segredos desta linha de sabedoria!</p>
+                <hr class="border-secondary" />
+
+                <div class="row">
+                    @if (genero.Livros != null && genero.Livros.Any())
+                    {
+                        @foreach (var livro in genero.Livros)
+                        {
+                            <div class="col-md-3 mb-4">
+                                <div class="card h-100 card-arquimago">
+                                    @* Aplicar estilo temático aqui *@
+                                    <div class="card-body">
+                                        <h5 class="card-title text-primary-arquimago">@livro.Titulo</h5>
+                                        <p class="card-text text-muted small">Autor: @livro.Autor</p>
+                                        <p class="card-text">
+                                            <span class="badge bg-secondary-arquimago text-light">@livro.Genero.Nome</span>
+                                        </p>
+                                    </div>
+                                    <div class="card-footer bg-light d-flex justify-content-between align-items-center">
+                                        <strong class="text-success-arquimago fs-5">R$ @livro.Preco.ToString("N2")</strong>
+                                        <a href="#" class="btn btn-sm btn-magico">Adicionar ao Grimório</a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                    else
+                    {
+                        <p class="col-12">Nenhum tomo (livro) foi catalogado nesta seção ainda. O Arquimago está em busca de mais!</p>
+                    }
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p class="text-danger">O Portal do Conhecimento está fechado. Verifique a API.</p>
+    }
 </div>

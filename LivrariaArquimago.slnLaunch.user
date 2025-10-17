@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "LivrariaArquimago.Api\\LivrariaArquimago.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "LivrariaArquimago.Web\\LivrariaArquimago.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
